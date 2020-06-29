@@ -1,0 +1,27 @@
+body {
+   background-color: #ffa931;
+}
+
+hr {
+     border-style: none;
+     border-top-style: dotted;
+     border-color: red;
+     border-width: 10px;
+     width: 80%;
+    }
+h1{
+  color: brown;
+}
+#heading{
+  font-size: 70px;
+
+}
+
+/*****************666666666666*/
+.circular {
+  border-radius: 100%
+}
+img:hover {
+  background-color: gold;
+
+}
